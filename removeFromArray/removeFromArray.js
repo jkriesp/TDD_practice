@@ -1,6 +1,5 @@
 const removeFromArray = function () {
     let array = arguments[0];
-    let result = [];
 
     // Iterate through however many arguments there are
     for (let i = 1; i <= arguments.length; i++) {
